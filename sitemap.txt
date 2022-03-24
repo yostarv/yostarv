@@ -1,3 +1,5 @@
+http://example.com/music/index.html
+http://example.com/pictures/index.html
 http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/tags/index.html
